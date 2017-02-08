@@ -1,0 +1,28 @@
+\d+\sFERC
+\d+\sU.S.
+\d+\sF.2d
+\d+\sF.3d
+\d+\sF.
+\d+\sF. Supp.
+\d+\sS. Ct.
+\d+\sF. App'x
+\d+\sF. Appx.
+\d+\sSo. 2d
+\d+\sSo. 3d
+\d+\sSo.
+\d+\sP.2d
+\d+\sP.3d
+\d+\sP.
+\d+\sS.W.2d
+\d+\sS.W.3d
+\d+\sS.W.
+\d+\sA.2d
+\d+\sA.
+\d+\sS.E.
+\d+\sS.E.2d
+\d+\sN.E.2d
+\d+\sN.E.
+\d+\sN.W.
+\d+\sN.W.2d
+\d+\sU.S.C.
+\d+\sT.C.

@@ -1,0 +1,5 @@
+IConvertDocxSvc = legal.brief.linker.services.ConvertDocxSvcImpl
+IExtractCitationsSvc = legal.brief.linker.services.ExtractCitationsSvcImpl
+IGetCitationCoordinatesSvc = legal.brief.linker.services.GetCitationCoordinatesSvcImpl
+IGetResourceFilesSvc = legal.brief.linker.services.GetResourceFilesSvcImpl
+ICreateAnnotationsSvc = legal.brief.linker.services.CreateAnnotationsSvcImpl

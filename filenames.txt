@@ -1,0 +1,18 @@
+ Volume in drive C is HP
+ Volume Serial Number is D89D-3891
+
+ Directory of C:\Regis CS\CS493\projectfiles\Legal Brief Linker
+
+05/29/2016  11:10 AM    <DIR>          .
+05/29/2016  11:10 AM    <DIR>          ..
+05/28/2016  04:16 PM    <DIR>          build
+05/28/2016  12:48 PM             3,639 build.xml
+05/28/2016  01:18 PM    <DIR>          config
+05/29/2016  11:10 AM                 0 filenames.txt
+05/28/2016  03:20 PM    <DIR>          Licenses
+05/28/2016  12:49 PM                85 manifest.mf
+05/28/2016  12:48 PM    <DIR>          nbproject
+05/29/2016  10:54 AM    <DIR>          resources
+05/28/2016  12:48 PM    <DIR>          src
+               3 File(s)          3,724 bytes
+               8 Dir(s)  71,953,879,040 bytes free
